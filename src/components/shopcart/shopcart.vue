@@ -6,6 +6,7 @@
                   <div class="logo">
                       <span class="icon-shopping_cart"></span>
                   </div>
+                  <div class="num"></div>
               </div>
               <div class="price">￥{{totalPrice}}元</div>
               <div class="desc">另需配送费{{deliveryPrice}}元</div>
